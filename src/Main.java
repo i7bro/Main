@@ -16,6 +16,7 @@ public class Main {
                 System.out.print(j * i + "\t");
             }
             System.out.println();
+            System.out.println("some text");
         }
     }
 }
